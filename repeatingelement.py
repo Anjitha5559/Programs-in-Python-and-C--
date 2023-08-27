@@ -15,7 +15,7 @@ def findMajorityCandidate(array):
         if(count==0):
             majority_element = i
             count = 1
-        return array[majority_element]
+    return array[majority_element]
     
     
 def isMajority(array,candidate):
