@@ -1,3 +1,4 @@
+#Most frequent element in array
 array_length = int(input("Plz enter the length of the array :"))
 array = []
 for i in range(array_length):

@@ -1,3 +1,4 @@
+#Find the missing number in an array
 class Solution:
     def missingNumber(self, array, n):
         sum0 = n * (n + 1) // 2

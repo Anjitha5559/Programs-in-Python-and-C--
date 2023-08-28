@@ -1,3 +1,4 @@
+#Find if a string is a Pallindrome
 myString = "nisin"
 for i in range(len(myString)):
     if(myString[i]!=myString[len(myString)-i-1]):

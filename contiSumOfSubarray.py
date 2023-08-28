@@ -1,3 +1,5 @@
+#A sum will be given, sum of continous elements in the array will give the sum,
+# the indexes of leftmost and rightmost needs to be printed
 class Solution:
     def subArraySum(self,arr, n, sum_):
         A = []

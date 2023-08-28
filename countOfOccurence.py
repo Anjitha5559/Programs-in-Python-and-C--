@@ -1,3 +1,4 @@
+#Find the number of occurence of a character in a string
 myString = "aaannjitha"
 charCount = {}
 for char in myString:
